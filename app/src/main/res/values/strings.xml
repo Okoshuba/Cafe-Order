@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cafe Order</string>
+    <string name="welcome">Welcome</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_password">Password</string>
+    <string name="button_make_order">Create order</string>
+    <string name="toast_msg_fill_fields">All this fields must not be empty</string>
+    <string name="textViewClient">Привет, %s! Что желаете заказать?</string>
+    <string name="buttonTea">tea</string>
+    <string name="buttonCoffee">coffee</string>
+    <string name="textViewAddition">Что хотите добавить в ваш %s?</string>
+    <string name="checkMilk">Milk</string>
+    <string name="checkSugar">Sugar</string>
+    <string name="checkLimon">Lemon</string>
+    <string name="chooseDrink">Выберите напиток</string>
+    <string name="button_for_send_order">Button for send order</string>
+    <string name="default_name">Client</string>
+    <string name="default_password">password</string>
+    <string name="order">Name: %s Password: %s Drink: %s Kind of drink: %s</string>
+    <string name="additions">Additions:</string>
+
+    <string-array name="option_of_coffee">
+        <item>Americano</item>
+        <item>Latte</item>
+        <item>Espresso</item>
+    </string-array>
+
+    <string-array name="option_of_tea">
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+</resources>
